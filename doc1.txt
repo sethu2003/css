@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<h3>Example Of Number Field</h3>
+	<form>
+		<label for="Age">Age:</label><br>
+		<input type="number" name="Age" id="Age">
+	</form>
+</body>
+</html>
